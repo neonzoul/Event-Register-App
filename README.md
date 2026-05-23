@@ -2,6 +2,9 @@
 
 A production-ready event registration system built with Next.js, Supabase, Resend, and PromptPay QR.
 
+## Repository
+- GitHub: https://github.com/neonzoul/Event-Register-App
+
 ## Features
 - Public registration form with validation
 - Confirmation page with registration ID and PromptPay QR
@@ -27,15 +30,15 @@ A production-ready event registration system built with Next.js, Supabase, Resen
 ## 1. Download Project from GitHub
 
 ```bash
-git clone <your-repository-url>
-cd <your-repository-folder>
+git clone https://github.com/neonzoul/Event-Register-App.git
+cd Event-Register-App
 ```
 
 Example:
 
 ```bash
-git clone https://github.com/yourname/event-registration.git
-cd event-registration
+git clone https://github.com/neonzoul/Event-Register-App.git
+cd Event-Register-App
 ```
 
 ## 2. Install Dependencies
